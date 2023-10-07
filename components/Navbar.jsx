@@ -7,7 +7,7 @@ function Navbar() {
     <section className="py-10 md:py-16 bg-gradient-to-b from-cyan-400 to-slate-50">
       <div className="container max-w-screen-xl mx-auto px-4">
         <nav className="flex items-center justify-between mb-10">
-          <Image src="/assets/logo.PNG " alt="Logo" width={60} height={60} />
+          <Image src="/assets/logo.png " alt="Logo" width={60} height={60} />
 
           <a
             href="/assets/M Muzamal Software Engineer.pdf"
