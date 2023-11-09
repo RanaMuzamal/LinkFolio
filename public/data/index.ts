@@ -56,7 +56,7 @@ export const experiences = [
   {
     company: "ZPZEN Tecnologies",
     role: "Frontend Developer",
-    date: "June 2020 - November 2023",
+    date: "June 2020 - November 2020",
     location: "Vehari",
     description: [
       "Utilized expertise in front-end technologies to create visually stunning and intuitive user interfaces for clients.",
