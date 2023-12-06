@@ -100,6 +100,18 @@ export const portfolio = [
       "Car Search Enhancement: Elevating the car search experience with Next.js, Tailwind CSS, and a third-party API, enabling users to effortlessly find cars by model. Comprehensive Car Details: Enhancing user experiences with detailed car information, including specifications, rental rates, and availability.",
     link: "https://autohubb.vercel.app/",
   },
+  {
+    title: "Edufolio - Digital Learning Portfolio",
+    description:
+      "A versatile portfolio site designed to display not just academic achievements but also to promote and offer courses. Serves as a comprehensive portfolio and an educational hub, providing a diverse and engaging user experience.A web and mobile-responsive powerhouse, ensuring dynamic accessibility.",
+    link: "https://edufolio.vercel.app/",
+  },
+  {
+    title: "hoobank - Landing Page",
+    description:
+      "A portfolio banking site showcases a bank's financial products and services, including account information, loans, credit cards, and investments, providing a comprehensive overview of the bank's offerings.",
+    link: "https://hoobank-react-website.vercel.app/",
+  },
 ];
 
 export const testimonials = [
