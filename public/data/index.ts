@@ -1,4 +1,15 @@
 import { IoMdAnalytics, IoMdApps, IoMdCafe } from "react-icons/io";
+export const user = {
+  name: "Rana Muzamil",
+  role: "Software Engineer",
+  bio: "I'm deeply passionate about software development, driven by my desire to create user-centric solutions. I enjoy creating tools that make life easier for people.",
+  hireButton: "Contact Me",
+  email: "muzamilrana149@gmail.com",
+  github: "https://github.com/RanaMuzamal",
+  twitter: "https://twitter.com/rana_muzamil_",
+  facebook: "https://www.facebook.com/rana.muzamal.182/",
+  whatsapp: "https://wa.me/03200962399",
+};
 
 export const eduction = [
   {
